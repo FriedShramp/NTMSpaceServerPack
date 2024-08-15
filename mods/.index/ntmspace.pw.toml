@@ -1,0 +1,13 @@
+filename = 'HBM-NTM-[1.0.27_X5055].jar'
+name = "Hbm's Nuclear Tech"
+side = 'both'
+
+[download]
+hash = 'd161ee997edcffd43d2c005246442d174fc8cc9a0b6bf0e9f00e5f296857f70a1ac6d76aa97820b963b91129b37f19044bf417ceab1da2c3f76e1bad81a877a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LKOB3KzA/versions/o4O5zQMX/HBM-NTM-%5B1.0.27_X5055%5D.jar'
+
+[update.modrinth]
+mod-id = 'LKOB3KzA'
+version = 'o4O5zQMX'

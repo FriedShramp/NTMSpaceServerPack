@@ -1,0 +1,13 @@
+filename = 'WailaEvents-1.0.0.jar'
+name = 'Waila Events'
+side = 'both'
+
+[download]
+hash = 'df46b91a55cc25b8837aaff948988d00b9f3e60275180d30a995142bfa03f7293f2da88bef4dc7fe47e7df78c3288f1b1624f853fd2e2a97335601922d933bf6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BFFcKz9D/versions/GzEzszhi/WailaEvents-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'BFFcKz9D'
+version = 'GzEzszhi'

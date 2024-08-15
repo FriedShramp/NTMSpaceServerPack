@@ -1,0 +1,13 @@
+filename = 'OpenGlasses-1.0.46.jar'
+name = 'OpenGlasses'
+side = 'both'
+
+[download]
+hash = 'c66ab2a634aadcfb6851345672abaed7144a6aff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2237199
+project-id = 225819

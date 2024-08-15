@@ -1,0 +1,13 @@
+filename = '+unimixins-all-1.7.10-0.1.17.jar'
+name = 'UniMixins'
+side = 'both'
+
+[download]
+hash = '3ee603a90b354936c2dd062237ae8a354a64696bc41ddb26d82cd62bd693fe10ab8e75517d2029020e852d2290a021ab4e8f25d741b25da12b7608c6acdbeb6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ghjoiQAl/versions/7iC7nIQ2/%2Bunimixins-all-1.7.10-0.1.17.jar'
+
+[update.modrinth]
+mod-id = 'ghjoiQAl'
+version = '7iC7nIQ2'

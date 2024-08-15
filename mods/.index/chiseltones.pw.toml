@@ -1,0 +1,13 @@
+filename = 'ChiselTones-1.7.10-1.0-3.jar'
+name = 'ChiselTones'
+side = 'both'
+
+[download]
+hash = 'dcc05f3493c944018c05611366b2d1883f7457e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2254543
+project-id = 228004

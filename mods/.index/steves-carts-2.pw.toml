@@ -1,0 +1,13 @@
+filename = 'StevesCarts2.0.0.b18.jar'
+name = "Steve's Carts 2"
+side = 'both'
+
+[download]
+hash = '8cef6d96120bbb8f90e7e111207b74b38df79af9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2230425
+project-id = 228625

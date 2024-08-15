@@ -1,0 +1,13 @@
+filename = 'Waila-Inhibitors-1.1.0.jar'
+name = 'Waila Inhibitors'
+side = 'both'
+
+[download]
+hash = 'e6717769ddcec31ee38e1d3691bc7cb3bf50a0912c8b8c94bb81ef5a4986c39f9ec92489a35cd99086d1bad8266fc2391e018e62a90b7a16462df169a14f918f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F9HrrSvj/versions/oURROWYv/Waila-Inhibitors-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'F9HrrSvj'
+version = 'oURROWYv'

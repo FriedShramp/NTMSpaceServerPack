@@ -1,0 +1,13 @@
+filename = 'rftools-4.24.jar'
+name = 'Rftools Continuation'
+side = 'both'
+
+[download]
+hash = '7863f1361a13b23d8c3773509dbf9320e2fe47dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4933359
+project-id = 947266

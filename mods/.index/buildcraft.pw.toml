@@ -1,0 +1,13 @@
+filename = 'buildcraft-7.1.26.jar'
+name = 'BuildCraft'
+side = 'both'
+
+[download]
+hash = '969ed17f6fa864c992d03fd3283a78dc0f9b3b994138413e93ab96001e19bbb859029596b238ef91620f2bc5ad1f86bca2a66ab13311dd29904171475846cecd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6X5wjPTJ/versions/BiTYhSlB/buildcraft-7.1.26.jar'
+
+[update.modrinth]
+mod-id = '6X5wjPTJ'
+version = 'BiTYhSlB'

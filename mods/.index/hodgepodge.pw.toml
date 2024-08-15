@@ -1,0 +1,13 @@
+filename = 'hodgepodge-2.5.45-pre.jar'
+name = 'Hodgepodge'
+side = 'both'
+
+[download]
+hash = '83f3893124fb73fe7af5c13537957d5ceb747aad434436dfc098a14071c97abbd22c652d710210077e301edea4acbf91a48bbac9f3f9a08a50da5d6d1e9420cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6QQe8Ldy/versions/nJnnVIEs/hodgepodge-2.5.45-pre.jar'
+
+[update.modrinth]
+mod-id = '6QQe8Ldy'
+version = 'nJnnVIEs'

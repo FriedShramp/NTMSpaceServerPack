@@ -1,0 +1,13 @@
+filename = 'gtnhlib-0.4.2.jar'
+name = 'GTNH Lib'
+side = 'both'
+
+[download]
+hash = '49f8784b3b5c5508fdd7c1e234fe4f3cc1fe018723ae5d23fabcebfeba00ed647d8474b688ff1b8188320b871339b1c5d94d1908c8b32c4ced34ea5e6f04c034'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vTvnv7qp/versions/AWAlA3XU/gtnhlib-0.4.2.jar'
+
+[update.modrinth]
+mod-id = 'vTvnv7qp'
+version = 'AWAlA3XU'

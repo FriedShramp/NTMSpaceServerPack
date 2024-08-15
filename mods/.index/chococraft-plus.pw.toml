@@ -1,0 +1,13 @@
+filename = 'ChocoCraftPlus-1.7.10-4.5.9.jar'
+name = 'ChocoCraft Plus'
+side = 'both'
+
+[download]
+hash = '5b3fdf108445d5c3cb8ba2e8ceb4f2959e6baa7ba605f5a04e21669435bd787ca25aed2836ca1c5fe4edcbff18f326fe168d04b087f88c4c14f4a74c6f49f1e8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xmHOjVvZ/versions/2x3eAfnb/ChocoCraftPlus-1.7.10-4.5.9.jar'
+
+[update.modrinth]
+mod-id = 'xmHOjVvZ'
+version = '2x3eAfnb'

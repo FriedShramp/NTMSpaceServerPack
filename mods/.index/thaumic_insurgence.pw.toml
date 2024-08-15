@@ -1,0 +1,13 @@
+filename = 'thaumicinsurgence-0.0.2.6.jar'
+name = 'Thaumic Insurgence'
+side = 'both'
+
+[download]
+hash = '77c70aa89734870f2c3fc0179858aabe066e42bf8933c73c7864fa76c9ccc28706be6cf57987fddcd492935bea87e5b4234bbb357179ecd48b2699fa3f1539e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PCEjYHWr/versions/pmFrNllU/thaumicinsurgence-0.0.2.6.jar'
+
+[update.modrinth]
+mod-id = 'PCEjYHWr'
+version = 'pmFrNllU'

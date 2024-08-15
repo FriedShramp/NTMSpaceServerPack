@@ -1,0 +1,13 @@
+filename = 'AlternativeStainedGlass-mc1.7.10-v1.0.3.jar'
+name = 'Alternative Stained Glass'
+side = 'both'
+
+[download]
+hash = '1b5c0f8349c02b042c741498752ff8ef654357514ebd37aca958bf63433cea00ed726e295413f1b6458da1d3e854dac4d8a4e349691fc2258cc1bd74d1b2bd4e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CTV1AqXc/versions/bUpWVPlb/AlternativeStainedGlass-mc1.7.10-v1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'CTV1AqXc'
+version = 'bUpWVPlb'

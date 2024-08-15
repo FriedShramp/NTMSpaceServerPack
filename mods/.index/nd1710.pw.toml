@@ -1,0 +1,13 @@
+filename = 'neodymium-mc1.7.10-0.3.3-unofficial.jar'
+name = 'Neodymium Unofficial'
+side = 'client'
+
+[download]
+hash = 'c51fa5fbda5a367dda2b73af2a50da04f5c26c37a83222906eda19bf18cd910b915db0a2e0a9c666d91916702370a90a21caf55725b2be69a2bc6e1ac471dac2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YRBOv8ax/versions/3ek7Ky2z/neodymium-mc1.7.10-0.3.3-unofficial.jar'
+
+[update.modrinth]
+mod-id = 'YRBOv8ax'
+version = '3ek7Ky2z'

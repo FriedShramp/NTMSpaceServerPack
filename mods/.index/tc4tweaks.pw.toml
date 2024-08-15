@@ -1,0 +1,13 @@
+filename = 'Thaumcraft4Tweaks-1.5.24.jar'
+name = 'Thaumcraft 4 Tweaks'
+side = 'both'
+
+[download]
+hash = '01597a896e29c498f70bb1716ac53547256fd5debd4e2a691481312d3eb84453450ddf9f1525d99ecf5c8d1a1b6aef52a200166fa795e4c678cbaa77a93b05ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J0HWRWq5/versions/XxvrhFFD/Thaumcraft4Tweaks-1.5.24.jar'
+
+[update.modrinth]
+mod-id = 'J0HWRWq5'
+version = 'XxvrhFFD'

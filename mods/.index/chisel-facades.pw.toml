@@ -1,0 +1,13 @@
+filename = 'ChiselFacades-1.7.10-2.12-chiselteam.jar'
+name = 'Chisel Facades'
+side = 'both'
+
+[download]
+hash = '556985a08dc1b9fa5683e84b16df19b566a9614a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2255081
+project-id = 222784

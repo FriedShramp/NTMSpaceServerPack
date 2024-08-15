@@ -1,0 +1,13 @@
+filename = 'OpenSensors-MC1.7.10-1.0-5.jar'
+name = 'OpenSensors'
+side = 'both'
+
+[download]
+hash = ''
+hash-format = ''
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2486293
+project-id = 267909

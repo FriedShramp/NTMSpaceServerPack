@@ -1,0 +1,13 @@
+filename = 'Railcraft_1.7.10-9.12.2.1.jar'
+name = 'Railcraft'
+side = 'both'
+
+[download]
+hash = '1c7283767376aebcac41d97739f36765c8357d97'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2458987
+project-id = 51195

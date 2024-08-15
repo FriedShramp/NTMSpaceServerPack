@@ -1,0 +1,13 @@
+filename = '+MysteriumLib-1.5.7.jar'
+name = 'MysteriumLibUnofficial'
+side = 'both'
+
+[download]
+hash = 'b5505ba83079ea46e431f0fec1f465909ce22948f96f82ae0bb0c2361115b0f43b8bda1e160bf08ca0224a7f6ae05a4ff69cbf56631fb5679695212a08aaa89b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3EqWeoiF/versions/q93Qcio8/%2BMysteriumLib-1.5.7.jar'
+
+[update.modrinth]
+mod-id = '3EqWeoiF'
+version = 'q93Qcio8'

@@ -1,0 +1,13 @@
+filename = 'SpiceOfLife-2.1.11-carrot-pre.jar'
+name = 'Spice of Life - Carrot Edition - Unofficial 1.7.10'
+side = 'both'
+
+[download]
+hash = 'f1e94304b8b7cd02ec6382aed9e45cfc2a3316d39483d69301c1496996280cf6c4100e9c19b146e5366f7c1d5bb2cb64db7e32424ccdf95f6011b5fc1cd137f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AbPBTO0Y/versions/Nzc5VB5W/SpiceOfLife-2.1.11-carrot-pre.jar'
+
+[update.modrinth]
+mod-id = 'AbPBTO0Y'
+version = 'Nzc5VB5W'

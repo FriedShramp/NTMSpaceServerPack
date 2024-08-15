@@ -1,0 +1,13 @@
+filename = 'gregcaves-1.2.1.jar'
+name = 'Greg Caves'
+side = 'both'
+
+[download]
+hash = 'a6abbeca264635ce9e3d766bdf0cadbbafe97d0b714cc0bc538707eccf9b42252a362d60e0a4bd8b4d2c91522556779faa0f14243b03ae60d7b3a0d992ca70ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JZYCRz9r/versions/6ZOx3sbD/gregcaves-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'JZYCRz9r'
+version = '6ZOx3sbD'

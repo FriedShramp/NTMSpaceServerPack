@@ -1,0 +1,102 @@
+GT_API: ======================
+GT_API: PreInit-Phase started!
+GT_API: PreInit-Phase finished!
+GT_API: =======================
+GT_API_POST: ======================
+GT_API_POST: PreInit-Phase started!
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.sand_gold198
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.sand_gold
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_aluminium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_copper
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_lead
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_starmetal
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_titanium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_tungsten
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_daffergon
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_reiium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_unobtainium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_verticium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_weidanium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_uranium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.basalt_fluorite
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.basalt_asbestos
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.basalt_sulfur
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_sulfur
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_thorium
+Item does not exist for Unification Target despite Mod being loaded: hbm:tile.ore_meteor_lithium
+GT_API_POST: PreInit-Phase finished!
+GT_API_POST: =======================
+GT_Mod: ======================
+GT_Mod: PreInit-Phase started!
+GT_Mod: PreInit-Phase finished!
+GT_Mod: =======================
+GT_API: ===================
+GT_API: Init-Phase started!
+GT_API: If the Loading Bar somehow Freezes at this Point, then you definetly ran out of Memory or permgenspace, look at the other Logs to confirm it.
+GT_API: Init-Phase finished!
+GT_API: ====================
+GT_API_POST: ===================
+GT_API_POST: Init-Phase started!
+GT_API_POST: Init-Phase finished!
+GT_API_POST: ====================
+GT_Mod: ===================
+GT_Mod: Init-Phase started!
+GT_Mod: Init-Phase finished!
+GT_Mod: ====================
+GT_API: =======================
+GT_API: PostInit-Phase started!
+GT_API: If the Loading Bar somehow Freezes at this Point, then you definetly ran out of Memory or permgenspace, look at the other Logs to confirm it.
+GT_API: PostInit-Phase finished!
+GT_API: ========================
+GT_API_POST: =======================
+GT_API_POST: PostInit-Phase started!
+GT_API_POST: PostInit-Phase finished!
+GT_API_POST: ========================
+GT_Mod: =======================
+GT_Mod: PostInit-Phase started!
+GT_Mod: PostInit-Phase finished!
+ERROR: Recipe has no Inputs!
+Recipe Map: gt.recipe.mortar
+Input Items:  
+Input Fluid:  
+Output Items: Bone Meal; 
+Output Fluid: 
+	at gregtech.loaders.c.Loader_Recipes_Vanilla.run(Loader_Recipes_Vanilla.java:673)
+	at gregtech.GT6_Main$1.onPostLoad(GT6_Main.java:204)
+	at gregapi.api.Abstract_Mod.onModPostInit(Abstract_Mod.java:273)
+	at gregtech.GT6_Main.onPostLoad(GT6_Main.java:638)
+ERROR: Recipe has no Inputs!
+Recipe Map: gt.recipe.mortar
+Input Items:  
+Input Fluid:  
+Output Items: oredict.dustMeatRotten; 
+Output Fluid: 
+	at gregtech.loaders.c.Loader_Recipes_Vanilla.run(Loader_Recipes_Vanilla.java:679)
+	at gregtech.GT6_Main$1.onPostLoad(GT6_Main.java:204)
+	at gregapi.api.Abstract_Mod.onModPostInit(Abstract_Mod.java:273)
+	at gregtech.GT6_Main.onPostLoad(GT6_Main.java:638)
+ERROR: Recipe has no Inputs!
+Recipe Map: gt.recipe.shredder
+Input Items:  
+Input Fluid:  
+Output Items: Bone Meal; 
+Output Fluid: 
+	at gregtech.loaders.c.Loader_Recipes_Vanilla.run(Loader_Recipes_Vanilla.java:692)
+	at gregtech.GT6_Main$1.onPostLoad(GT6_Main.java:204)
+	at gregapi.api.Abstract_Mod.onModPostInit(Abstract_Mod.java:273)
+	at gregtech.GT6_Main.onPostLoad(GT6_Main.java:638)
+GT_Mod: Doing BC Recipes.
+GT_Mod: Doing RC Recipes.
+GT_Mod: Doing Forestry Recipes.
+GT_Mod: Doing Binnie Extra Trees Recipes.
+GT_Mod: Doing Binnie Genetics Recipes.
+GT_Mod: Doing Binnie Botany Recipes.
+GT_Mod: Doing Binnie Extra Bees Recipes.
+GT_Mod: Doing PR Recipes.
+GT_Mod: Doing Open Computers Recipes.
+GT_Mod: Doing HBM Recipes.
+GT_Mod: Doing Mekanism Recipes.
+GT_Mod: Doing TC Recipes and Research.
+GT_Mod: Replacing Vanilla alike Recipes.
+GT_Mod: Copying all of the Forestry Centrifuge/Squeezer Recipes to GT Machines
+GT_Mod: ========================

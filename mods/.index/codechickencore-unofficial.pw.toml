@@ -1,0 +1,13 @@
+filename = 'CodeChickenCore-1.3.6.jar'
+name = 'CodeChickenCore Unofficial 1.7.10'
+side = 'both'
+
+[download]
+hash = '62fb021fd8351b494d4c74285c53ff3d2e306c98ee714555db4c6482d8045bb053f3189b879e0841b37e8ed9f9778f4234163b211d33f4658c9748f4acb54278'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qMOdaUOs/versions/VEX8yogi/CodeChickenCore-1.3.6.jar'
+
+[update.modrinth]
+mod-id = 'qMOdaUOs'
+version = 'VEX8yogi'

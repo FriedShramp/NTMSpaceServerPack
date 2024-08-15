@@ -1,0 +1,13 @@
+filename = 'OpenPeripheralIntegration-1.7.10-0.6.jar'
+name = 'OpenPeripheralIntegration'
+side = 'both'
+
+[download]
+hash = '48b80af8f059be187b17acdbd8c9f48ab1299e72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2386741
+project-id = 228819

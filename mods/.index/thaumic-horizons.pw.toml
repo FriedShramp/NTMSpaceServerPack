@@ -1,0 +1,13 @@
+filename = 'ThaumicHorizons-1.6.2-pre.jar'
+name = 'Thaumic Horizons'
+side = 'both'
+
+[download]
+hash = '9bea20e75e0322413db0d96f18fee7d6b47b96b8984e54f18a7b604306d58bd38dcd995cb773c9515438e5ed7399bfcfa4ba2b6a054e9289fa835d78cbb22d73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1wDWP1tN/versions/CLr2kBQr/ThaumicHorizons-1.6.2-pre.jar'
+
+[update.modrinth]
+mod-id = '1wDWP1tN'
+version = 'CLr2kBQr'

@@ -1,0 +1,13 @@
+filename = 'CoFHLib-[1.7.10]1.2.1-185.jar'
+name = 'CoFH Lib'
+side = 'both'
+
+[download]
+hash = '440e4636508cbb3636510ed6c4af59f130c37c6c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2388747
+project-id = 220333

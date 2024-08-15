@@ -1,0 +1,13 @@
+filename = 'NotEnoughItems-2.6.24-GTNH-pre.jar'
+name = 'NotEnoughItems Unofficial 1.7.10'
+side = 'client'
+
+[download]
+hash = 'cdb44e367aeddd78770e9d11bd8de6fe907b0371b2ffb64afb94421330a774732c3c88ffbb83d993c4a829a08de904a1dbfd61ef5b5c91d6d05d8ed15d137584'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iNPc3Onu/versions/i6MNX3H1/NotEnoughItems-2.6.24-GTNH-pre.jar'
+
+[update.modrinth]
+mod-id = 'iNPc3Onu'
+version = 'i6MNX3H1'

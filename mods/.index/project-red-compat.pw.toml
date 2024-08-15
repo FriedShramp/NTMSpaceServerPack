@@ -1,0 +1,13 @@
+filename = 'ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar'
+name = 'Project Red - Compat'
+side = 'both'
+
+[download]
+hash = '4e00ec1e5efb4ebe91a773a75614a011afef87b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2280736
+project-id = 229050

@@ -1,0 +1,13 @@
+filename = 'asmc-1.7.10-1.0.2.1.jar'
+name = 'ASMC Performance Patch'
+side = 'both'
+
+[download]
+hash = 'bdd5aa2db8a5a1ce115476ddf6554ef99191dc2a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4785588
+project-id = 920327

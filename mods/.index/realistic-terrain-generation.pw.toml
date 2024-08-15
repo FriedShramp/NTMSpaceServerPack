@@ -1,0 +1,13 @@
+filename = 'RTG-1.7.10-1.1.1.7.jar'
+name = 'Realistic Terrain Generation'
+side = 'both'
+
+[download]
+hash = '7d542c0e06b4a543468f033e365fee01d8bdd91b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2521557
+project-id = 237989

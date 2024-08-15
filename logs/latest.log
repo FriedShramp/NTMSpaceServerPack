@@ -1,0 +1,206 @@
+[20:29:15] [main/INFO]: Setting user: jeefle
+[20:29:16] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:29:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NotEnoughItems, FMLFileResourcePack:Mysterium Lib, FMLFileResourcePack:UniMixins, FMLFileResourcePack:UniMixins: Mixin (UniMix), FMLFileResourcePack:UniMixins: Compatibility, FMLFileResourcePack:UniMixins: Mixingasm, FMLFileResourcePack:UniMixins: SpongeMixins, FMLFileResourcePack:UniMixins: MixinBooterLegacy, FMLFileResourcePack:UniMixins: GasStation, FMLFileResourcePack:UniMixins: GTNHMixins, FMLFileResourcePack:UniMixins: MixinExtras, FMLFileResourcePack:AE2 Fluid Crafting, FMLFileResourcePack:Alternative Stained Glass, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ASMC, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Builders, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Facades, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:ChocoCraft Plus, FMLFileResourcePack:Controlling, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:FoamFix, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Greg Caves, FMLFileResourcePack:GTNH Lib, FMLFileResourcePack:Harvest, FMLFileResourcePack:Hbm's Nuclear Tech, FMLFileResourcePack:HEXCraft, FMLFileResourcePack:Hodgepodge, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism Community Edition, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MrTJPCore, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature's Compass, FMLFileResourcePack:Neodymium Unofficial, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:NotEnoughEnergistics, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenFM, FMLFileResourcePack:OC Glasses, FMLFileResourcePack:OpenMods, FMLFileResourcePack:OpenPeripheralAddons, FMLFileResourcePack:OpenPeripheralCore, FMLFileResourcePack:OpenPeripheralIntegration, FMLFileResourcePack:OpenSecurity, FMLFileResourcePack:OpenSensors, FMLFileResourcePack:Ore Tweaker, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:The Spice of Life - Carrot Edition, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:tc_integration, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:TC4 Tweak, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Boots, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:ThaumicHorizons, FMLFileResourcePack:Thaumic Insurgence, FMLFileResourcePack:UniDict, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Inhibitors, FMLFileResourcePack:Waila Events, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[20:29:58] [Client thread/WARN]: File hbm:sounds/clap.ogg does not exist, cannot add it to event hbm:fm.clap
+[20:29:58] [Client thread/WARN]: File hbm:sounds/mug.ogg does not exist, cannot add it to event hbm:fm.mug
+[20:29:58] [Client thread/WARN]: File hbm:sounds/sample.ogg does not exist, cannot add it to event hbm:fm.sample
+[20:29:58] [Sound Library Loader/INFO]: Sound engine started
+[20:29:59] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:29:59] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:30:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NotEnoughItems, FMLFileResourcePack:Mysterium Lib, FMLFileResourcePack:UniMixins, FMLFileResourcePack:UniMixins: Mixin (UniMix), FMLFileResourcePack:UniMixins: Compatibility, FMLFileResourcePack:UniMixins: Mixingasm, FMLFileResourcePack:UniMixins: SpongeMixins, FMLFileResourcePack:UniMixins: MixinBooterLegacy, FMLFileResourcePack:UniMixins: GasStation, FMLFileResourcePack:UniMixins: GTNHMixins, FMLFileResourcePack:UniMixins: MixinExtras, FMLFileResourcePack:AE2 Fluid Crafting, FMLFileResourcePack:Alternative Stained Glass, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:§dASMC, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Builders, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Facades, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:§eChocoCraft Plus, FMLFileResourcePack:Controlling, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:FoamFix, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Greg Caves, FMLFileResourcePack:GTNH Lib, FMLFileResourcePack:Harvest, FMLFileResourcePack:Hbm's Nuclear Tech, FMLFileResourcePack:HEXCraft, FMLFileResourcePack:Hodgepodge, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism Community Edition, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MrTJPCore, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature's Compass, FMLFileResourcePack:Neodymium Unofficial, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:NotEnoughEnergistics, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenFM, FMLFileResourcePack:OC Glasses, FMLFileResourcePack:OpenMods, FMLFileResourcePack:OpenPeripheralAddons, FMLFileResourcePack:OpenPeripheralCore, FMLFileResourcePack:OpenPeripheralIntegration, FMLFileResourcePack:OpenSecurity, FMLFileResourcePack:OpenSensors, FMLFileResourcePack:Ore Tweaker, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:The Spice of Life - Carrot Edition, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:tc_integration, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:TC4 Tweak, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Boots, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:ThaumicHorizons, FMLFileResourcePack:Thaumic Insurgence, FMLFileResourcePack:UniDict, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Inhibitors, FMLFileResourcePack:Waila Events, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, opensecurity_external
+[20:30:21] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[20:30:22] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[20:30:23] [Client thread/WARN]: File hbm:sounds/clap.ogg does not exist, cannot add it to event hbm:fm.clap
+[20:30:23] [Client thread/WARN]: File hbm:sounds/mug.ogg does not exist, cannot add it to event hbm:fm.mug
+[20:30:23] [Client thread/WARN]: File hbm:sounds/sample.ogg does not exist, cannot add it to event hbm:fm.sample
+[20:30:23] [Sound Library Loader/INFO]: Sound engine started
+[20:30:36] [Client thread/INFO]: Connecting to 192.168.1.85, 25565
+[20:30:39] [Client thread/INFO]: [CHAT] Loaded world with JameH2's NTM: Space 1.0.27 BETA (5054) for Minecraft 1.7.10!
+[20:30:39] [Client thread/INFO]: [CHAT] New version 1.0.27 BETA (5055) is available! Click [here] to download!
+[20:32:11] [Client thread/INFO]: [CHAT] Duck was slain by jeefle
+[20:34:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:38:27] [Client thread/INFO]: [CHAT] cwibow joined the game
+[20:38:48] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Taking Inventory]
+[20:39:46] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Getting Wood]
+[20:40:29] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Benchmarking]
+[20:43:22] [Client thread/INFO]: [CHAT] <jeefle> 27 435
+[20:45:18] [Client thread/INFO]: [CHAT] cwibow left the game
+[20:45:35] [Client thread/INFO]: [CHAT] cwibow joined the game
+[20:47:15] [Client thread/INFO]: [CHAT] <jeefle> 77 434
+[20:48:15] [Client thread/INFO]: [CHAT] Duck was slain by cwibow
+[20:49:25] [Client thread/INFO]: [CHAT] Duck was slain by cwibow§7 (2)
+[20:49:43] [Client thread/INFO]: [CHAT] Duck was slain by cwibow§7 (3)
+[20:49:43] [Client thread/INFO]: [CHAT] Duck was slain by cwibow§7 (4)
+[20:49:47] [Client thread/INFO]: [CHAT] Duck was slain by cwibow§7 (5)
+[20:49:48] [Client thread/INFO]: [CHAT] Duck was slain by cwibow§7 (6)
+[20:50:24] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Time to Mine!]
+[20:51:02] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Getting an Upgrade]
+[20:51:13] [Client thread/INFO]: [CHAT] [BuildCraft] The quarry at 61 67 434 will keep 9 chunks loaded
+[20:51:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:51:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:51:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:51:58] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Hot Topic]
+[20:52:11] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Time to Strike!]
+[20:54:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:54:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:54:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:54:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[20:54:59] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Monster Hunter]
+[20:55:10] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Cow Tipper]
+[20:56:33] [Client thread/INFO]: [CHAT] <jeefle> sorry
+[20:56:37] [Client thread/INFO]: [CHAT] <jeefle> come to my home
+[20:56:43] [Client thread/INFO]: [CHAT] <jeefle> i have bed for you uuuu
+[20:56:50] [Client thread/INFO]: [CHAT] <jeefle> :(
+[20:56:52] [Client thread/INFO]: [CHAT] <jeefle> :-(
+[20:56:56] [Client thread/INFO]: [CHAT] <jeefle> what
+[20:56:59] [Client thread/INFO]: [CHAT] <jeefle> what do you mean
+[20:57:07] [Client thread/INFO]: [CHAT] <jeefle> la la al ala la la la
+[20:57:11] [Client thread/INFO]: [CHAT] <jeefle> see im talkin
+[20:57:12] [Client thread/INFO]: [CHAT] <jeefle> g
+[20:57:14] [Client thread/INFO]: [CHAT] <jeefle> you are insane
+[21:03:35] [Client thread/INFO]: Connecting to 192.168.1.85, 25565
+[21:03:37] [Client thread/INFO]: [CHAT] Loaded world with JameH2's NTM: Space 1.0.27 BETA (5054) for Minecraft 1.7.10!
+[21:03:37] [Client thread/INFO]: [CHAT] New version 1.0.27 BETA (5055) is available! Click [here] to download!
+[21:05:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[21:11:24] [Client thread/INFO]: [CHAT] cwibow fell from a high place
+[21:11:59] [Client thread/INFO]: [CHAT] <jeefle> zzzz
+[21:12:01] [Client thread/INFO]: [CHAT] <jeefle> zzzzz
+[21:12:02] [Client thread/INFO]: [CHAT] <jeefle> zzzzzz
+[21:12:05] [Client thread/INFO]: [CHAT] <jeefle> zzzzzzzz
+[21:12:08] [Client thread/INFO]: [CHAT] <jeefle> zzzzzzzzzzzzzz
+[21:12:12] [Client thread/INFO]: [CHAT] <jeefle> zzzzzzzzzzzzzzzzzzz
+[21:12:13] [Client thread/INFO]: [CHAT] cwibow left the game
+[21:12:21] [Client thread/INFO]: [CHAT] cwibow joined the game
+[21:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[21:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[21:14:54] [Client thread/INFO]: [CHAT] cwibow has just earned the achievement [Small Step to a Big World]
+[21:25:23] [Client thread/INFO]: [CHAT] <jeefle> z
+[21:25:23] [Client thread/INFO]: [CHAT] <jeefle> z§7 (2)
+[21:25:24] [Client thread/INFO]: [CHAT] <jeefle> z§7 (3)
+[21:25:25] [Client thread/INFO]: [CHAT] <jeefle> zz
+[21:25:26] [Client thread/INFO]: [CHAT] <jeefle> z
+[21:25:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[21:26:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[21:26:16] [Client thread/INFO]: [CHAT] jeefle fell from a high place
+[21:31:40] [Client thread/INFO]: Connecting to 192.168.1.85, 25565
+[21:31:42] [Client thread/INFO]: [CHAT] Loaded world with JameH2's NTM: Space 1.0.27 BETA (5054) for Minecraft 1.7.10!
+[21:31:42] [Client thread/INFO]: [CHAT] New version 1.0.27 BETA (5055) is available! Click [here] to download!
+[21:32:02] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [DIAMONDS!]
+[21:39:33] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [Tell Red I said "Hi."]
+[21:39:49] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [All the Small Things]
+[21:40:09] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [In Case of Trouble]
+[21:41:33] [Client thread/INFO]: [CHAT] §6Last error§f: Not enough energy.
+[21:42:05] [Client thread/INFO]: [CHAT] <jeefle> zzz please
+[21:42:06] [Client thread/INFO]: [CHAT] <jeefle> zzzz
+[21:42:06] [Client thread/INFO]: [CHAT] <jeefle> zzz
+[21:43:02] [Client thread/INFO]: [CHAT] <cwibow> z
+[21:43:02] [Client thread/INFO]: [CHAT] <cwibow> z§7 (2)
+[21:43:02] [Client thread/INFO]: [CHAT] <cwibow> z§7 (3)
+[21:43:02] [Client thread/INFO]: [CHAT] <cwibow> zzz
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (2)
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (3)
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (4)
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (5)
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (6)
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (7)
+[21:43:03] [Client thread/INFO]: [CHAT] <cwibow> z§7 (8)
+[21:43:04] [Client thread/INFO]: [CHAT] cwibow left the game
+[21:43:09] [Client thread/INFO]: [CHAT] cwibow joined the game
+[21:43:13] [Client thread/INFO]: [CHAT] <jeefle> z
+[21:43:13] [Client thread/INFO]: [CHAT] <jeefle> z§7 (2)
+[21:43:13] [Client thread/INFO]: [CHAT] <jeefle> z§7 (3)
+[21:43:13] [Client thread/INFO]: [CHAT] <jeefle> z§7 (4)
+[21:43:14] [Client thread/INFO]: [CHAT] <jeefle> z§7 (5)
+[21:43:14] [Client thread/INFO]: [CHAT] <jeefle> z§7 (6)
+[21:43:15] [Client thread/INFO]: [CHAT] <jeefle> z§7 (7)
+[21:48:18] [Client thread/INFO]: [CHAT] §6Last error§f: No CPU is installed in the computer.
+[21:48:19] [Client thread/INFO]: [CHAT] §6Last error§f: No CPU is installed in the computer.§7 (2)
+[21:51:19] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [Overclocked]
+[21:51:33] [Client thread/INFO]: [CHAT] §6Last error§f: No RAM is installed in the computer.
+[21:53:31] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [Random Access Memories]
+[21:53:57] [Client thread/INFO]: [CHAT] <cwibow> zz
+[21:53:57] [Client thread/INFO]: [CHAT] <cwibow> z
+[21:53:57] [Client thread/INFO]: [CHAT] <cwibow> z§7 (2)
+[21:53:58] [Client thread/INFO]: [CHAT] <cwibow> z§7 (3)
+[21:53:58] [Client thread/INFO]: [CHAT] <cwibow> z§7 (4)
+[21:53:58] [Client thread/INFO]: [CHAT] <cwibow> z§7 (5)
+[21:53:58] [Client thread/INFO]: [CHAT] <cwibow> z§7 (6)
+[21:53:59] [Client thread/INFO]: [CHAT] <cwibow> z§7 (7)
+[21:55:23] [Client thread/INFO]: [CHAT] <cwibow> you a bitch
+[21:55:28] [Client thread/INFO]: [CHAT] <jeefle> whey
+[21:55:31] [Client thread/INFO]: [CHAT] <cwibow> z
+[21:55:32] [Client thread/INFO]: [CHAT] <jeefle> toh
+[21:55:32] [Client thread/INFO]: [CHAT] <cwibow> z
+[21:55:32] [Client thread/INFO]: [CHAT] <cwibow> z§7 (2)
+[21:55:32] [Client thread/INFO]: [CHAT] <cwibow> z§7 (3)
+[21:55:32] [Client thread/INFO]: [CHAT] <cwibow> z§7 (4)
+[21:55:32] [Client thread/INFO]: [CHAT] <cwibow> z§7 (5)
+[21:55:32] [Client thread/INFO]: [CHAT] <cwibow> z§7 (6)
+[21:55:39] [Client thread/INFO]: [CHAT] <cwibow> :)
+[21:58:33] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [Have you tried turning it off and on again?]
+[22:00:23] [Client thread/INFO]: [CHAT] cwibow left the game
+[22:04:07] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [Roundabout]
+[22:09:16] [Client thread/INFO]: [CHAT] <jeefle> z
+[22:09:16] [Client thread/INFO]: [CHAT] <jeefle> z§7 (2)
+[22:09:16] [Client thread/INFO]: [CHAT] <jeefle> z§7 (3)
+[22:09:19] [Client thread/INFO]: [CHAT] <jeefle> zz
+[22:12:31] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [DirtCatcher3000]
+[22:14:27] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [Hot Dog Dealer]
+[22:16:46] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [We Accept Cards]
+[22:19:04] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [LastGen]
+[22:25:31] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [There can be only one]
+[22:25:55] [Client thread/INFO]: [CHAT] jeefle has just earned the achievement [The One Ri- Disk]
+[22:31:35] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
+[22:49:02] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[22:49:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[22:49:19] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
+[22:49:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 139 ms
+[22:49:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[22:49:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
+[22:49:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 125 ms
+[22:49:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
+[22:49:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 112 ms
+[22:49:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[22:49:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 119 ms
+[22:49:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[22:49:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
+[22:49:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[22:49:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 113 ms
+[22:49:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 271 ms
+[22:49:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
+[22:49:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 112 ms
+[22:49:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 196 ms
+[22:50:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 206 ms
+[22:50:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[22:50:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 219 ms
+[22:50:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 113 ms
+[22:50:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[22:50:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 125 ms
+[22:50:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 133 ms
+[22:50:37] [Client thread/INFO]: Warning: Clientside chunk ticking took 220 ms
+[22:50:37] [Client thread/INFO]: Warning: Clientside chunk ticking took 222 ms
+[22:50:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 175 ms
+[22:50:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 172 ms
+[22:50:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 166 ms
+[22:50:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 165 ms
+[22:50:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
+[22:50:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 200 ms
+[22:51:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 113 ms
+[22:51:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
+[22:51:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[22:51:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 160 ms
+[22:51:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[22:51:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 110 ms
+[22:51:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 155 ms
+[22:51:50] [Client thread/INFO]: Warning: Clientside chunk ticking took 286 ms
+[22:52:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 202 ms
+[22:52:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
+[22:52:16] [Client thread/INFO]: Stopping!
